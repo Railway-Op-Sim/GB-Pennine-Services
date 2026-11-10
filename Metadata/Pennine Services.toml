@@ -1,5 +1,5 @@
-rly_files = [ "North Pennine Services.rly", "South & Central Pennine Services.rly", "Combined Pennine Services.rly" ]
-ttb_files = [ "North Pennine Services.ttb", "South & Central Pennine Services.ttb", "Combined Pennine Services.ttb" ]
+rly_files = [ "North Pennine Services.rly", "South & Central Pennine Services.rly", "Combined Pennine Services.rly",]
+ttb_files = [ "North Pennine Services.ttb", "South & Central Pennine Services.ttb", "Combined Pennine Services.ttb",]
 img_files = [ "Pennine Services.jpg",]
 doc_files = [ "Pennine Services.txt",]
 release_date = "2026-11-10"
@@ -13,4 +13,5 @@ name = "Pennine Services"
 signal_position = "left"
 author = "RailOS DevTeam"
 contributors = []
-ssn_files = [ "Starting session for North Pennine Services.ssn", "Starting session for South & Central Pennine Services.ssn", "Starting session for Combined Pennine Services.ssn" ]
+ssn_files = [ "Starting session for North Pennine Services.ssn", "Starting session for South & Central Pennine Services.ssn", "Starting session for Combined Pennine Services.ssn",]
+rly_file = "North Pennine Services.rly"
